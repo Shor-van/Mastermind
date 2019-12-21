@@ -1,0 +1,6 @@
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Game_Mastermind\bin\Debug\Game_Mastermind.exe
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Game_Mastermind\bin\Debug\Game_Mastermind.pdb
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Game_Mastermind\obj\x86\Debug\Game_Mastermind.exe
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Game_Mastermind\obj\x86\Debug\Game_Mastermind.pdb
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Mastermind\obj\x86\Debug\Game_Mastermind.exe
+C:\Users\Shor_van\source\repos\C#\Games\Console(Texted Based)\Mastermind(School)\Mastermind\obj\x86\Debug\Game_Mastermind.pdb
